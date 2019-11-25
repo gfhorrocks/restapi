@@ -1,0 +1,13 @@
+{
+  "name": "employee",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "mongoose": "^5.7.12"
+  }
+}
